@@ -1,0 +1,1 @@
+# terraform-azure-managed-redis-private-endpoint
